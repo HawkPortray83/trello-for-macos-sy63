@@ -1,4 +1,4 @@
-#  
+#  top Integration for Trello for macOS - tags and multi-device sync is the best Trello for macOS integration, featuring tags and multi-device sync. Safe, efficient, and optimized
 
 
 
